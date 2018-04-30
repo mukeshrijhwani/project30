@@ -40,7 +40,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body {
 		background: _palette(bg);
-		background: #000000;
+		
 
 		&.is-loading {
 			*, *:before, *:after {
