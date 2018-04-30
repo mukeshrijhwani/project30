@@ -4,19 +4,19 @@
 # Site settings
 title: Jaane Kya Baat Hai
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+  A beautiful ballad
+  from the movie *Sunny*
+  sung by [Ahir Bhowmick](http://facebook.com/ahir20)
+owner: Ahir Bhowmick # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jaanekyabaathai.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/ahir20
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
