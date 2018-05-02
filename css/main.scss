@@ -551,9 +551,9 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Video */
 .mycontainer {
-    	
-    position: relative;
-    width: 100%;
+    @include vendor('justify-content', 'center');	
+    position: center;
+    width: 80%;
     height: 0;
     padding-bottom: 56.25%;
 }
