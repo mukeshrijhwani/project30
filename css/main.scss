@@ -586,7 +586,26 @@ $baseurl: '{{ site.baseurl }}/images';
     height: 80%;
 }
 
-
+    .youtube-player {
+        position: relative;
+        padding-bottom: 56.23%;
+        /* Use 75% for 4:3 videos */
+        height: 0;
+        overflow: hidden;
+        max-width: 100%;
+        background: #000;
+        margin: 5px;
+    }
+    
+    .youtube-player iframe {
+        position: absolute;
+        top: 0;
+        margin-left: 5%;
+        width: 90%;
+        height: 100%;
+        z-index: 100;
+        background: transparent;
+    }
 
 /* List */
 
